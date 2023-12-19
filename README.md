@@ -4,7 +4,7 @@
 
 - - -
 ### Dataset
-* whole slide image (WSI) and gene expression dataset: The WSIs and paired gene expression data used in this work are from TCGA (https://portal.gdc.cancer.gov/), open access to all.
+* Whole slide image (WSI) and gene expression dataset: The WSIs and paired gene expression data used in this work are from TCGA (https://portal.gdc.cancer.gov/), open access to all.
 * Biological pathway dataset: A total of curated 186 pathways from Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway databases are used for survival analysis. The data download link is: https://www.gseamsigdb.org/gsea/msigdb/human/genesets.jsp?collection=CP:KEGG.
 * Pathway-based gene expression matrix construction: `pathways_genes_matrix.csv`, `normalized_gene_expression_matrix_***.csv`, `COX_KM_ROC_curve.R`
 - - -
