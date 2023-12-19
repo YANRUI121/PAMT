@@ -1,4 +1,4 @@
-## PAMT: Pathway-Aware Multimodal Transformer Integrating Pathological Images and Gene Expression Data for Interpretable Cancer Survival Analysis
+## PAMT
 
 ![Graphical abstract](graphical-abstract.jpg) 
 
