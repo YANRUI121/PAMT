@@ -4,19 +4,19 @@ library(survminer)
 library(writexl)
 
 
-setwd("C:\\Users\\yanrui\\Desktop\\COXPAMT\\LUSC")
+setwd("C:\\Users\\yr\\Desktop\\COXPAMT\\LUSC")
 
 
 ##################################
 
-select_by_p = read.csv("C:\\Users\\yanrui\\Desktop\\COXPAMT\\LUSC\\survival_dataset_test.csv")
+select_by_p = read.csv("C:\\Users\\yr\\Desktop\\COXPAMT\\LUSC\\survival_dataset_test.csv")
 
 select_by_p$risk_score_scale <- scale(select_by_p$risk_score)
 
 select_by_p$Risk <- ifelse(select_by_p$risk_score_scale > median(select_by_p$risk_score_scale),"High","Low")
 head(select_by_p)
 
-write_xlsx(select_by_p,"C:\\Users\\yanrui\\Desktop\\COXPAMT\\LUSC\\survival_dataset_test.xlsx")
+write_xlsx(select_by_p,"C:\\Users\\yr\\Desktop\\COXPAMT\\LUSC\\survival_dataset_test.xlsx")
 
 
 #write.csv(select_by_p[,1:3 ],"survival_data_20230430.csv",row.names = TRUE)
