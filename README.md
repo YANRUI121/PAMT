@@ -1,4 +1,4 @@
-## PAMT
+## PAMT: Pathway-Aware Multimodal Transformer
 
 ![Graphical abstract](graphical-abstract.jpg) 
 
