@@ -3,6 +3,10 @@
 ![Graphical abstract](graphical-abstract.jpg) 
 
 - - -
+### Website for PAMT
+To facilitate researchers with different subject backgrounds to mine the information in the heatmap, we develop a website that directly visualizes the impact of 186 pathways on all areas of WSI as heatmaps (∼300,000 highresolution images, ∼20T), available at http://222.128.10.254:18822/#/.
+Demo video (2 minutes 14 seconds): https://drive.google.com/file/d/1cR-bqkuDcx6Su5__S59iCOIvh6G7HUQO/view?usp=drive_link
+
 ### Dataset
 * Whole slide image (WSI) and gene expression dataset: The WSIs and paired gene expression data used in this work are from TCGA (https://portal.gdc.cancer.gov/), open access to all.
 * Biological pathway dataset: A total of curated 186 pathways from Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway databases are used for survival analysis. The data download link is: https://www.gseamsigdb.org/gsea/msigdb/human/genesets.jsp?collection=CP:KEGG.
