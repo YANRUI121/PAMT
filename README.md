@@ -69,5 +69,5 @@ For more details, see original code: https://github.com/facebookresearch/dino
 * lifelines==0.27.7
 
 - - -
-If you have any questions, please contact Rui Yan at yanrui666666@gmail.com.
+If you have any questions, please contact Rui Yan at yanrui@ustc.edu.cn.
 
