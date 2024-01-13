@@ -1,6 +1,6 @@
 ## PAMT: Pathway-Aware Multimodal Transformer
 
-![Graphical abstract](graphical-abstract.jpg) 
+![Graphical abstract](graphical_abstract_pamt.jpg) 
 
 - - -
 ### Website for PAMT
