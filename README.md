@@ -6,6 +6,7 @@
 ### Website for PAMT
 To facilitate researchers with different subject backgrounds to mine the information in the heatmap, we develop a website that directly visualizes the impact of 186 pathways on all areas of WSI as heatmaps (∼300,000 high resolution images, ∼20T), available at http://222.128.10.254:18822/#/.
 
+Demo video: https://youtu.be/F97bXDgaHyk
 Demo video (2m14s, 229M): https://drive.google.com/file/d/1cR-bqkuDcx6Su5__S59iCOIvh6G7HUQO/view?usp=drive_link
 
 ### Dataset
