@@ -27,6 +27,7 @@ Demo video (2m14s, 229M): https://drive.google.com/file/d/1cR-bqkuDcx6Su5__S59iC
 - `list_visualize_attention.py`: This code visualizes the self-attention of the [CLS] token on different heads of the last layer in the trained DINO model. It provides insights into how the model attends to different features during the self-supervised training.
 - `get_features.py`: This code extracts a 384-dimensional feature vector for each patch using the trained DINO model. These features are used in subsequent clustering and predictive analyses.
 For more details, see original code: https://github.com/facebookresearch/dino
+- `Pre-trained weights download`: The DINO weights jointly pre-trained on 20 common cancer types are available at the following link: https://drive.google.com/file/d/1m1o5JNiMu7z3DTCCi9lx1NOuZpl_wHtQ/view?usp=sharing
 
 ### Clustering and patch selection: `patch_clustering`
 
@@ -72,4 +73,5 @@ For more details, see original code: https://github.com/facebookresearch/dino
 
 - - -
 If you have any questions, please contact Rui Yan at yanrui@ustc.edu.cn.
+
 
